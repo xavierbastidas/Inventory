@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\TransactionService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14561FD1-483F-40C3-8BBC-EE806D368E0B}|TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\transactionservice\\transactionservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14561FD1-483F-40C3-8BBC-EE806D368E0B}|TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|solutionrelative:transactionservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB45B5-3017-4910-8D65-2DE6EE80543B}|TransactionService.Domain\\TransactionService.Domain.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\transactionservice\\transactionservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB45B5-3017-4910-8D65-2DE6EE80543B}|TransactionService.Domain\\TransactionService.Domain.csproj|solutionrelative:transactionservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6ADF50-D8E0-4A8D-B824-0E1CD0690CC3}|TransactionService.Application\\TransactionService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\transactionservice\\transactionservice.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6ADF50-D8E0-4A8D-B824-0E1CD0690CC3}|TransactionService.Application\\TransactionService.Application.csproj|solutionrelative:transactionservice.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\TransactionService\\TransactionService.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "TransactionService.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\TransactionService\\TransactionService.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "TransactionService.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:12:02.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\TransactionService\\TransactionService.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "TransactionService.Domain\\Class1.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\TransactionService\\TransactionService.Domain\\Class1.cs",
+              "RelativeToolTip": "TransactionService.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:11:40.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\TransactionService\\TransactionService.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "TransactionService.Application\\Class1.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\TransactionService\\TransactionService.Application\\Class1.cs",
+              "RelativeToolTip": "TransactionService.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:11:17.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

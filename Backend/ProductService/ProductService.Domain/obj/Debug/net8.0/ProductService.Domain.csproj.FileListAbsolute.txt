@@ -1,0 +1,11 @@
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.deps.json
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.dll
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.pdb
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfoInputs.cache
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfo.cs
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.csproj.CoreCompileInputs.cache
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.dll
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\obj\Debug\net8.0\refint\ProductService.Domain.dll
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.pdb
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Domain\obj\Debug\net8.0\ref\ProductService.Domain.dll

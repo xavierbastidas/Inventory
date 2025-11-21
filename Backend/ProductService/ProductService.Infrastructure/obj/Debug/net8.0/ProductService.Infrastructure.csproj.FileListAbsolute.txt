@@ -1,0 +1,15 @@
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.AssemblyInfoInputs.cache
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.AssemblyInfo.cs
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\bin\Debug\net8.0\ProductService.Infrastructure.deps.json
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\bin\Debug\net8.0\ProductService.Infrastructure.dll
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\bin\Debug\net8.0\ProductService.Infrastructure.pdb
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\bin\Debug\net8.0\ProductService.Domain.dll
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\bin\Debug\net8.0\ProductService.Domain.pdb
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.csproj.AssemblyReference.cache
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductS.4D387919.Up2Date
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.dll
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\refint\ProductService.Infrastructure.dll
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.pdb
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ref\ProductService.Infrastructure.dll
