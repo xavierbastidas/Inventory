@@ -13,3 +13,4 @@ C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Ap
 C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Application\obj\Debug\net8.0\refint\ProductService.Application.dll
 C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.pdb
 C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Application\obj\Debug\net8.0\ref\ProductService.Application.dll
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Application\obj\Debug\net8.0\ProductService.Application.sourcelink.json

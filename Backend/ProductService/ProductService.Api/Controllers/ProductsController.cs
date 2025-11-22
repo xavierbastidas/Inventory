@@ -20,16 +20,10 @@ namespace ProductService.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            try
-            {
+           
                 var result = await _mediator.Send(new GetAllProductQuery());
                 return Ok(result);
-            }
-            catch (Exception ex)
-            {
-                // Devuelve un mensaje de error genérico o personalizado
-                return StatusCode(500, new { message = ex.Message });
-            }
+           
         }
     }
 }

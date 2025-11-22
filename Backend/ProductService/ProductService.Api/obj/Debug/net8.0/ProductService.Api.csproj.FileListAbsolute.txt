@@ -51,3 +51,4 @@ C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Ap
 C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Api\bin\Debug\net8.0\ProductService.Application.pdb
 C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Api\bin\Debug\net8.0\ProductService.Infrastructure.pdb
 C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Api\bin\Debug\net8.0\ProductService.Domain.pdb
+C:\Desarrollo\PruebasTecnicas\Inventory\Backend\ProductService\ProductService.Api\obj\Debug\net8.0\ProductService.Api.sourcelink.json

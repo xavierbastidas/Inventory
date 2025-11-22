@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB057134-0F17-4193-A191-B82DA5FF5812}|ProductService.Api\\ProductService.Api.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB057134-0F17-4193-A191-B82DA5FF5812}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74211307-5082-4F5E-90FC-A8CBEFA154C8}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74211307-5082-4F5E-90FC-A8CBEFA154C8}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|solutionrelative:productservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB057134-0F17-4193-A191-B82DA5FF5812}|ProductService.Api\\ProductService.Api.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB057134-0F17-4193-A191-B82DA5FF5812}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\handlers\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\handlers\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74211307-5082-4F5E-90FC-A8CBEFA154C8}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74211307-5082-4F5E-90FC-A8CBEFA154C8}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|solutionrelative:productservice.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB057134-0F17-4193-A191-B82DA5FF5812}|ProductService.Api\\ProductService.Api.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB057134-0F17-4193-A191-B82DA5FF5812}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24201E1F-3F11-4B84-B5F9-FB63460A4160}|ProductService.Domain\\ProductService.Domain.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24201E1F-3F11-4B84-B5F9-FB63460A4160}|ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:productservice.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24201E1F-3F11-4B84-B5F9-FB63460A4160}|ProductService.Domain\\ProductService.Domain.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24201E1F-3F11-4B84-B5F9-FB63460A4160}|ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24201E1F-3F11-4B84-B5F9-FB63460A4160}|ProductService.Domain\\ProductService.Domain.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24201E1F-3F11-4B84-B5F9-FB63460A4160}|ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:productservice.domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,132 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\Program.cs",
-              "RelativeDocumentMoniker": "ProductService.Api\\Program.cs",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\Program.cs",
-              "RelativeToolTip": "ProductService.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductService.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ProductService.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:59:53.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:58:39.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Domain\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "ProductService.Domain\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Domain\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "ProductService.Domain\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:57:44.644Z",
+              "WhenOpened": "2025-11-22T03:56:47.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService.Api\\Program.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\Program.cs",
+              "RelativeToolTip": "ProductService.Api\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:35:24.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GetAllProductsHandler.cs",
               "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\GetAllProductsHandler.cs",
               "RelativeDocumentMoniker": "ProductService.Application\\Products\\Handlers\\GetAllProductsHandler.cs",
               "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\GetAllProductsHandler.cs",
               "RelativeToolTip": "ProductService.Application\\Products\\Handlers\\GetAllProductsHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:52:14.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAllProductsQuery.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Queries\\GetAllProductsQuery.cs",
-              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Queries\\GetAllProductsQuery.cs",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Queries\\GetAllProductsQuery.cs",
-              "RelativeToolTip": "ProductService.Application\\Products\\Queries\\GetAllProductsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:51:33.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateProductCommand.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Commands\\CreateProductCommand.cs",
-              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Commands\\CreateProductCommand.cs",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Commands\\CreateProductCommand.cs",
-              "RelativeToolTip": "ProductService.Application\\Products\\Commands\\CreateProductCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:48:06.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Handlers\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\CreateProductHandler.cs",
-              "RelativeToolTip": "ProductService.Application\\Products\\Handlers\\CreateProductHandler.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADgvyQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:47:54.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ProductService.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "ProductService.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:07:48.863Z",
+              "WhenOpened": "2025-11-22T03:32:07.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ProductService.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ProductService.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Domain\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "ProductService.Domain\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Domain\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "ProductService.Domain\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:07:27.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProductService.Api\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProductService.Api\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T03:05:32.287Z",
+              "WhenOpened": "2025-11-22T03:24:01.257Z",
               "EditorCaption": ""
             }
           ]

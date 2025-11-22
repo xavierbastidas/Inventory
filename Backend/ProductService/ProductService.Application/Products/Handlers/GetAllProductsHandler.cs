@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using ProductService.Application.Products.Queries;
 using ProductService.Domain.Entities;
+using ProductService.Domain.Exceptions;
 using ProductService.Domain.Repositories;
 using System;
 using System.Collections.Generic;
@@ -22,20 +23,14 @@ namespace ProductService.Application.Products.Handlers
         }
         public async Task<IEnumerable<Product>>Handle(GetAllProductQuery request ,  CancellationToken cancellationToken)
         {
-            try
-            {
+            
                 var products = await _repo.GetAllAsync();
                 if (products == null || !products.Any())
                 {
-                    throw new Exception("No se encontraron productos.");
+                    throw new NotFoundException("No se encontraron productos.","No records");
                 }
                 return products;
-            }
-            catch (Exception ex)
-            {
-                // Puedes envolverlo en una excepción personalizada
-                throw new ApplicationException("Error al obtener los productos", ex);
-            }
+          
         }
 
 
