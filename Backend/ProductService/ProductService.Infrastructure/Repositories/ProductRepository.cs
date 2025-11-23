@@ -19,16 +19,48 @@ namespace ProductService.Infrastructure.Repositories
             _context = context;
         }
 
-        public  async Task<IEnumerable<Product>> GetAllAsync()
+        public async  Task<Product> AddAsync(Product product)
         {
+
             try
             {
-                return await _context.Products.ToListAsync();
+                await _context.Products.AddAsync(product);
+                await _context.SaveChangesAsync();
+                return product;
+
             }
             catch (Exception ex)
             {
-                throw new Exception("Error de base de datos: " + ex.Message, ex);
+
+                throw new Exception(ex.Message);
             }
+                
+            
+           
+        }
+
+        public Task<bool> DeleteAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public  async Task<IEnumerable<Product>> GetAllAsync()
+        {
+           
+             return await _context.Products.ToListAsync();
+            
+           
+        }
+
+        public async Task<Product> GetByIdAsync(int id)
+        {
+            return await _context.Products.FindAsync(id);
+            
+        }
+
+        public Task<Product> UpdateAsync(Product product)
+        {
+            throw new NotImplementedException();
         }
     }
 }

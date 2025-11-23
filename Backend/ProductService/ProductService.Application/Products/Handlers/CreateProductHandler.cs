@@ -22,17 +22,34 @@ namespace ProductService.Application.Products.Handlers
 
         public async Task<int> Handle(CreateProductCommand request, CancellationToken cancellationToken)
         {
+
+            byte[] imageBytes = null;
+
+            if (request.Image != null)
+            {
+                using (var ms = new MemoryStream())
+                {
+                    await request.Image.CopyToAsync(ms);
+                    imageBytes = ms.ToArray(); 
+                }
+            }
+
             var product = new Product
             {
-                Name = request.Nombre,
-                Description = request.Descripcion,
-                Category = request.Categoria,
-                Image = request.Imagen,
-                Price = request.Precio,
+                Name = request.Name,
+                Description = request.Description,
+                Category = request.Category,
+                Image = imageBytes,
+                Price = request.Price,
                 Stock = request.Stock,
+                CreatedAt = DateTime.UtcNow,
+                UpdatedAt = DateTime.UtcNow
             };
-            //await _repo.GetProductsAsync(product);
-            return product.ProductId;
+
+                var newProduct = await _repo.AddAsync(product);
+
+                return newProduct.ProductId;
+           
 
         }
 

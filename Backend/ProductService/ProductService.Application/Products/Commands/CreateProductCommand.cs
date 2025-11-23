@@ -5,16 +5,17 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using MediatR;
+using Microsoft.AspNetCore.Http;
 
 
 namespace ProductService.Application.Products.Commands
 {
     public record CreateProductCommand(
-         string Nombre,
-         string Descripcion,
-         string Categoria,
-        byte[] Imagen,
-         decimal Precio,
+         string Name,
+         string Description,
+         string Category,
+          IFormFile Image,
+         decimal Price,
          int Stock
      ) : IRequest<int>;
 }

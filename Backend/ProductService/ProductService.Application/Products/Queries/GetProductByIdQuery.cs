@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace ProductService.Application.Products.Queries
 {
-   
-    public record  GetAllProductQuery : IRequest<IEnumerable<Product>>;
+    public record GetProductByIdQuery(int Id) : IRequest<Product>;
 }
+    
+
+
+    
+
