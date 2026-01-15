@@ -6,26 +6,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-
 namespace ProductService.Infrastructure.Data
 {
     public class AppDbContext:DbContext
-
     {
        public AppDbContext(DbContextOptions<AppDbContext> options):base(options){ }
        public DbSet<Product>Products { get; set; }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Nombre de la tabla
             modelBuilder.Entity<Product>()
                 .ToTable("products");
-
             // Clave primaria
             modelBuilder.Entity<Product>()
                 .HasKey(p => p.ProductId);
-
             // Mapeo de columnas
             modelBuilder.Entity<Product>().Property(p => p.ProductId).HasColumnName("product_id");
             modelBuilder.Entity<Product>().Property(p => p.Name).HasColumnName("name");

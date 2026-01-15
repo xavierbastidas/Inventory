@@ -50,5 +50,18 @@ namespace ProductService.Api.Controllers
             var product = await _mediator.Send(new GetProductByIdQuery(id));
             return Ok(product); 
         }
+        [HttpPut("{id:int}")]
+        public async Task<IActionResult> Update(int id)
+        {
+            var product = await _mediator.Send(new GetProductByIdQuery(id));
+            return Ok(product);
+        }
+        [HttpDelete("{id:int}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var product = await _mediator.Send(new GetProductByIdQuery(id));
+            return Ok(product);
+        }
+
     }
 }
