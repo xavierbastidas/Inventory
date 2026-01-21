@@ -28,6 +28,7 @@ namespace ProductService.Infrastructure.Data
             modelBuilder.Entity<Product>().Property(p => p.Image).HasColumnName("image");
             modelBuilder.Entity<Product>().Property(p => p.Price).HasColumnName("price");
             modelBuilder.Entity<Product>().Property(p => p.Stock).HasColumnName("stock");
+            modelBuilder.Entity<Product>().Property(p => p.IsActive).HasColumnName("is_active");
             modelBuilder.Entity<Product>().Property(p => p.CreatedAt).HasColumnName("created_at");
             modelBuilder.Entity<Product>().Property(p => p.UpdatedAt).HasColumnName("updated_at");
         }

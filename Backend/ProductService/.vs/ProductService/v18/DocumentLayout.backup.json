@@ -7,8 +7,36 @@
       "RelativeMoniker": "D:0:0:{EB057134-0F17-4193-A191-B82DA5FF5812}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB057134-0F17-4193-A191-B82DA5FF5812}|ProductService.Api\\ProductService.Api.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EB057134-0F17-4193-A191-B82DA5FF5812}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\handlers\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\handlers\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74211307-5082-4F5E-90FC-A8CBEFA154C8}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74211307-5082-4F5E-90FC-A8CBEFA154C8}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|solutionrelative:productservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\handlers\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\handlers\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\pruebastecnicas\\inventory\\backend\\productservice\\productservice.application\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FFCC86-C481-4C94-B23D-1E5347499FAA}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,14 +55,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductService.Api\\appsettings.json",
-              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\appsettings.json",
-              "RelativeToolTip": "ProductService.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-15T02:07:31.291Z",
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Handlers\\UpdateProductHandler.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\UpdateProductHandler.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\Handlers\\UpdateProductHandler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:05:49.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Commands\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Commands\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Commands\\UpdateProductCommand.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\Commands\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:05:31.001Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +86,87 @@
               "RelativeDocumentMoniker": "ProductService.Api\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Api\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "ProductService.Api\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAmwD4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAADYAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:55:55.358Z",
+              "WhenOpened": "2026-01-21T02:50:23.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Dtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Dtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Dtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\Dtos\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:42:18.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Dtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Dtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Dtos\\CreateProductDto.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\Dtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:49:36.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:44:00.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Handlers\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\DeleteProductHandler.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\Handlers\\DeleteProductHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:42:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Handlers\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Handlers\\CreateProductHandler.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\Handlers\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:42:07.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebasTecnicas\\Inventory\\Backend\\ProductService\\ProductService.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:04:01.976Z",
               "EditorCaption": ""
             }
           ]

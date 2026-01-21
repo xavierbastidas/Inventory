@@ -39,15 +39,36 @@ namespace ProductService.Infrastructure.Repositories
            
         }
 
-        public Task<bool> DeleteAsync(int id)
+        public  async Task<bool> DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var product = await _context.Products.FindAsync(id);
+
+                if (product == null)
+                {
+                    return false;
+                }
+                else
+                {
+                    product.IsActive = false;
+                    product.UpdatedAt = DateTime.UtcNow;
+                    _context.Products.Update(product);
+                    _context.SaveChanges();
+                    return true;
+                }
+            }
+            catch (Exception  )
+            {
+                return false;
+                
+            }
         }
 
         public  async Task<IEnumerable<Product>> GetAllAsync()
         {
            
-             return await _context.Products.ToListAsync();
+             return await _context.Products.Where(p => p.IsActive).ToListAsync();
             
            
         }
@@ -58,9 +79,19 @@ namespace ProductService.Infrastructure.Repositories
             
         }
 
-        public Task<Product> UpdateAsync(Product product)
+        public Task<bool> UpdateAsync(Product product)
         {
-            throw new NotImplementedException();
+            
+            try
+            {
+               _context.Products.Update(product);
+                _context.SaveChanges();
+                return Task.FromResult(true);
+            }
+            catch (Exception)
+            {
+                return Task.FromResult(false);
+            }
         }
     }
 }

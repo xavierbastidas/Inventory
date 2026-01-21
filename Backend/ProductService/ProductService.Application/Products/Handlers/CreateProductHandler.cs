@@ -42,6 +42,7 @@ namespace ProductService.Application.Products.Handlers
                 Image = imageBytes,
                 Price = request.Price,
                 Stock = request.Stock,
+                IsActive = true,
                 CreatedAt = DateTime.UtcNow,
                 UpdatedAt = DateTime.UtcNow
             };

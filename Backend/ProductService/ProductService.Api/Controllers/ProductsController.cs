@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Migrations.Operations;
 using ProductService.Application.Products.Commands;
 using ProductService.Application.Products.Dtos;
 using ProductService.Application.Products.Queries;
@@ -50,17 +51,24 @@ namespace ProductService.Api.Controllers
             var product = await _mediator.Send(new GetProductByIdQuery(id));
             return Ok(product); 
         }
-        [HttpPut("{id:int}")]
-        public async Task<IActionResult> Update(int id)
+        [HttpPatch("{id:int}")]
+        public async Task<IActionResult> Update([FromForm]UpdateProductDto dto , int id)
         {
-            var product = await _mediator.Send(new GetProductByIdQuery(id));
-            return Ok(product);
+            var result = await _mediator.Send(new UpdateProductCommand(
+                id,
+                dto.Description,
+                dto.Image,
+                dto.Price,
+                dto.Stock,
+                dto.IsActive
+                ));
+           return Ok(result);
         }
         [HttpDelete("{id:int}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var product = await _mediator.Send(new GetProductByIdQuery(id));
-            return Ok(product);
+            var resp= await _mediator.Send(new DeleteProductQuery(id));
+            return Ok(resp);
         }
 
     }
